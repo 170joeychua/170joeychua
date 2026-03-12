@@ -33,7 +33,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/170joeychua"><img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=170joeychua&hide_title=false&layout=compact&theme=gotham" height="150px" alt="Top Languages"></a>
 </p> -->
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=170joeychua&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" />
+</p>
 
 ## 🌱 Current Focus / Learning
 - Golang (by Apr 2026)  
