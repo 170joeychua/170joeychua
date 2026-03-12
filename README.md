@@ -40,8 +40,9 @@ Here are some ideas to get you started:
 ## 🌱 Current Focus / Learning
 - Golang (by Apr 2026)  
 - Claude course (by Apr 2026)  
-- AWS Developer Associate (by May 2026)  
-
+- AWS Developer Associate (by May 2026)
+- Complete 10 contributions on public repository _(Complete Count: 1)_
+  - A huge thank you to [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) for giving me the opportunity to start my contribution journey! Their work and guidance have created a welcoming learning space, and I’ve learned so much just from exploring this repo. Truly inspirational. 🌟
 
 ## 🏆 Achievements & Certifications
 - **NVIDIA-Certified Associate** – AI Infrastructure and Operations Certification (FEB 2026 – FEB 2028)  
